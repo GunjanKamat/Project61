@@ -1,0 +1,85 @@
+#about {
+    height: 700px;
+    text-align: center;
+    background: linear-gradient(#49e6db 0%, #248a83 100%);
+    background-repeat: no-repeat;
+
+}
+
+#video{
+    height:700px;
+}
+
+#work{
+    height:700px;
+}
+
+#inspiration{
+    height:700px;
+}
+
+#contact{
+    height:700px;
+}
+
+#image {
+    width: 350px;
+}
+
+p {
+    font-size: 18px;
+    text-align:justify-all;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    position: fixed;
+    top: 5px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+.link {
+    float: left;
+    color: black;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 8px;
+    padding-left: 8px;
+    font-weight: 300;
+    font-size: 25px;
+    font-family: 'Style Script', cursive;
+}
+
+.link:hover {
+    background-color: #4287f5;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Style Script', cursive;
+}
+
+body {
+    text-align: center;
+}
+
+.crafts{
+    height:280px;
+    width:400px;
+}
+#contactpara{
+    color: blue;
+    font-weight: 200;
+    font-size: 25px;
+    font-family: 'Style Script', cursive;
+    
+}
+img:hover{
+    transform:scale(0.9);
+}
